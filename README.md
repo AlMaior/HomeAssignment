@@ -54,3 +54,4 @@ according *logs* array size
 **common.attributes.api_key** is argument which provided to util with suffix `|DatasetFormatter` 
 
 
+####input_log folder contains 2 access log files.
